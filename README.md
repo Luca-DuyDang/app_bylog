@@ -1,4 +1,3 @@
 # app_bylog
 
-Bylog Repository
-Check Version
+Bylog Repo, hello there we are prepare for this about an hour and i finish to learn basic git/github on udemy
